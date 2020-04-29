@@ -1,5 +1,3 @@
-# main tutorial https://www.youtube.com/watch?v=LopYA64KmdE&list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K&index=39
-# Main library https://github.com/opencv/opencv/tree/master/data/haarcascades
 # import open CV Class
 import cv2
 
